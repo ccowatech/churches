@@ -1,0 +1,3030 @@
+[
+  {
+    "label":"Badgingarra",
+    "value":"Badgingarra"
+  },
+  {
+    "label":"Badgingarra Family Fellowship",
+    "value":"Badgingarra Family Fellowship"
+  },
+  {
+    "label":"Avon Valley Baptist Church",
+    "value":"Avon Valley Baptist Church"
+  },
+  {
+    "label":"Airport City Church",
+    "value":"Airport City Church"
+  },
+  {
+    "label":"All Saints Dianella",
+    "value":"All Saints Dianella"
+  },
+  {
+    "label":"Australasian Christian Fellowship",
+    "value":"Australasian Christian Fellowship"
+  },
+  {
+    "label":"Ballajura Baptist Church",
+    "value":"Ballajura Baptist Church"
+  },
+  {
+    "label":"Acts Christian Church",
+    "value":"Acts Christian Church"
+  },
+  {
+    "label":"Awaken",
+    "value":"Awaken"
+  },
+  {
+    "label":"Attadale Baptist Church",
+    "value":"Attadale Baptist Church"
+  },
+  {
+    "label":"Austin Cove Community Church",
+    "value":"Austin Cove Community Church"
+  },
+  {
+    "label":"Albany Baptist Church",
+    "value":"Albany Baptist Church"
+  },
+  {
+    "label":"Aveley",
+    "value":"Aveley"
+  },
+  {
+    "label":"Aflame Community Church",
+    "value":"Aflame Community Church"
+  },
+  {
+    "label":"Australind Christian Reformed Church",
+    "value":"Australind Christian Reformed Church"
+  },
+  {
+    "label":"All Saints Floreat Uniting Church",
+    "value":"All Saints Floreat Uniting Church"
+  },
+  {
+    "label":"Guildford Anglican Church",
+    "value":"Guildford Anglican Church"
+  },
+  {
+    "label":"Apostolic Born Again Church",
+    "value":"Apostolic Born Again Church"
+  },
+  {
+    "label":"Banksia Grove Catholic Community",
+    "value":"Banksia Grove Catholic Community"
+  },
+  {
+    "label":"Albany Presbyterian Church",
+    "value":"Albany Presbyterian Church"
+  },
+  {
+    "label":"Bassendean Presbyterian Church",
+    "value":"Bassendean Presbyterian Church"
+  },
+  {
+    "label":"All Saints Presbyterian",
+    "value":"All Saints Presbyterian"
+  },
+  {
+    "label":"Band",
+    "value":"Band"
+  },
+  {
+    "label":"Beckenham Community Church",
+    "value":"Beckenham Community Church"
+  },
+  {
+    "label":"Bedford Baptist Church",
+    "value":"Bedford Baptist Church"
+  },
+  {
+    "label":"Bellevue Baptist Church",
+    "value":"Bellevue Baptist Church"
+  },
+  {
+    "label":"Bedford Community Church",
+    "value":"Bedford Community Church"
+  },
+  {
+    "label":"Benenden Church",
+    "value":"Benenden Church"
+  },
+  {
+    "label":"Beldon Uniting Church",
+    "value":"Beldon Uniting Church"
+  },
+  {
+    "label":"Bethany Baptist Church",
+    "value":"Bethany Baptist Church"
+  },
+  {
+    "label":"Bicton Presbyterian Church",
+    "value":"Bicton Presbyterian Church"
+  },
+  {
+    "label":"Bickley Church",
+    "value":"Bickley Church"
+  },
+  {
+    "label":"Be the Church",
+    "value":"Be the Church"
+  },
+  {
+    "label":"Binningup Christian Fellowship",
+    "value":"Binningup Christian Fellowship"
+  },
+  {
+    "label":"Bentley Baptist Church",
+    "value":"Bentley Baptist Church"
+  },
+  {
+    "label":"Bethlehem Lutheran Church",
+    "value":"Bethlehem Lutheran Church"
+  },
+  {
+    "label":"Bethel Baptist Church",
+    "value":"Bethel Baptist Church"
+  },
+  {
+    "label":"Bethany Trinity Presbyterian",
+    "value":"Bethany Trinity Presbyterian"
+  },
+  {
+    "label":"Bethel Independant Presbyterian Church",
+    "value":"Bethel Independant Presbyterian Church"
+  },
+  {
+    "label":"Boyup Brook Baptist Church",
+    "value":"Boyup Brook Baptist Church"
+  },
+  {
+    "label":"Bridges Community Fellowship",
+    "value":"Bridges Community Fellowship"
+  },
+  {
+    "label":"Bridgetown Church of Christ",
+    "value":"Bridgetown Church of Christ"
+  },
+  {
+    "label":"Broome Uniting Church",
+    "value":"Broome Uniting Church"
+  },
+  {
+    "label":"Broome Anglican Church",
+    "value":"Broome Anglican Church"
+  },
+  {
+    "label":"Brookton Calvary Westminster Presbyterian",
+    "value":"Brookton Calvary Westminster Presbyterian"
+  },
+  {
+    "label":"Byford Baptist Church",
+    "value":"Byford Baptist Church"
+  },
+  {
+    "label":"Bunbury",
+    "value":"Bunbury"
+  },
+  {
+    "label":"Bunbury Vineyard Christian Fellowship",
+    "value":"Bunbury Vineyard Christian Fellowship"
+  },
+  {
+    "label":"Busselton SDA",
+    "value":"Busselton SDA"
+  },
+  {
+    "label":"C3 Cambridge",
+    "value":"C3 Cambridge"
+  },
+  {
+    "label":"Cadoux Christian Fellowship",
+    "value":"Cadoux Christian Fellowship"
+  },
+  {
+    "label":"Carine Uniting",
+    "value":"Carine Uniting"
+  },
+  {
+    "label":"Capel Uniting Church",
+    "value":"Capel Uniting Church"
+  },
+  {
+    "label":"Carmel College",
+    "value":"Carmel College"
+  },
+  {
+    "label":"Carramar Uniting Church",
+    "value":"Carramar Uniting Church"
+  },
+  {
+    "label":"Catherine Street Salvation Army",
+    "value":"Catherine Street Salvation Army"
+  },
+  {
+    "label":"C3 Rockingham",
+    "value":"C3 Rockingham"
+  },
+  {
+    "label":"Calvary Chapel Perth",
+    "value":"Calvary Chapel Perth"
+  },
+  {
+    "label":"Carey Community Baptist Church",
+    "value":"Carey Community Baptist Church"
+  },
+  {
+    "label":"Cambridge Baptist Church",
+    "value":"Cambridge Baptist Church"
+  },
+  {
+    "label":"Canning Reformed Church",
+    "value":"Canning Reformed Church"
+  },
+  {
+    "label":"Cardup Fellowship",
+    "value":"Cardup Fellowship"
+  },
+  {
+    "label":"Carnarvon Anglican Church",
+    "value":"Carnarvon Anglican Church"
+  },
+  {
+    "label":"Carnarvon Church of Christ",
+    "value":"Carnarvon Church of Christ"
+  },
+  {
+    "label":"Cathedral",
+    "value":"Cathedral"
+  },
+  {
+    "label":"Champion Lakes Christian Church",
+    "value":"Champion Lakes Christian Church"
+  },
+  {
+    "label":"Calvary Chapel Albany",
+    "value":"Calvary Chapel Albany"
+  },
+  {
+    "label":"Cardup Community Church",
+    "value":"Cardup Community Church"
+  },
+  {
+    "label":"Centrepoint Church",
+    "value":"Centrepoint Church"
+  },
+  {
+    "label":"Chidlow Community Church",
+    "value":"Chidlow Community Church"
+  },
+  {
+    "label":"Christian Fellowship Ministry",
+    "value":"Christian Fellowship Ministry"
+  },
+  {
+    "label":"Christ Evangelical Reformed Church",
+    "value":"Christ Evangelical Reformed Church"
+  },
+  {
+    "label":"City International Church",
+    "value":"City International Church"
+  },
+  {
+    "label":"Church Freo",
+    "value":"Church Freo"
+  },
+  {
+    "label":"Church Hill",
+    "value":"Church Hill"
+  },
+  {
+    "label":"City Network Church",
+    "value":"City Network Church"
+  },
+  {
+    "label":"Churchlands Christian Fellowship",
+    "value":"Churchlands Christian Fellowship"
+  },
+  {
+    "label":"Churchlands",
+    "value":"Churchlands"
+  },
+  {
+    "label":"Clarkson Presbyterian",
+    "value":"Clarkson Presbyterian"
+  },
+  {
+    "label":"Curtin Community Church",
+    "value":"Curtin Community Church"
+  },
+  {
+    "label":"Connolly Presbyterian Church",
+    "value":"Connolly Presbyterian Church"
+  },
+  {
+    "label":"Como Baptist Church",
+    "value":"Como Baptist Church"
+  },
+  {
+    "label":"Cornerstone Glory Church",
+    "value":"Cornerstone Glory Church"
+  },
+  {
+    "label":"Crossroads Presbyterian Church",
+    "value":"Crossroads Presbyterian Church"
+  },
+  {
+    "label":"Cross Culture Church",
+    "value":"Cross Culture Church"
+  },
+  {
+    "label":"Cross Road Bible Church",
+    "value":"Cross Road Bible Church"
+  },
+  {
+    "label":"Curtin Bible Church",
+    "value":"Curtin Bible Church"
+  },
+  {
+    "label":"Dandenong Christian Reformed Church",
+    "value":"Dandenong Christian Reformed Church"
+  },
+  {
+    "label":"Church @ Stadium",
+    "value":"Church @ Stadium"
+  },
+  {
+    "label":"Collie AOG",
+    "value":"Collie AOG"
+  },
+  {
+    "label":"Collie Baptist Church",
+    "value":"Collie Baptist Church"
+  },
+  {
+    "label":"Coolbellup Charismatic Baptist Church",
+    "value":"Coolbellup Charismatic Baptist Church"
+  },
+  {
+    "label":"Collie Foursquare Church",
+    "value":"Collie Foursquare Church"
+  },
+  {
+    "label":"Denmark Baptist Church",
+    "value":"Denmark Baptist Church"
+  },
+  {
+    "label":"Deo Gloria Community Church",
+    "value":"Deo Gloria Community Church"
+  },
+  {
+    "label":"Deo Gloria",
+    "value":"Deo Gloria"
+  },
+  {
+    "label":"Derby Baptist Church",
+    "value":"Derby Baptist Church"
+  },
+  {
+    "label":"Cornerstone Bible Church International",
+    "value":"Cornerstone Bible Church International"
+  },
+  {
+    "label":"Cornerstone Community Baptist Church",
+    "value":"Cornerstone Community Baptist Church"
+  },
+  {
+    "label":"Comet Bay Baptist Church",
+    "value":"Comet Bay Baptist Church"
+  },
+  {
+    "label":"Covenant Baptist Church",
+    "value":"Covenant Baptist Church"
+  },
+  {
+    "label":"Craigie Baptist Church",
+    "value":"Craigie Baptist Church"
+  },
+  {
+    "label":"Dreambuilders Church",
+    "value":"Dreambuilders Church"
+  },
+  {
+    "label":"Donnybrook Home Fellowship",
+    "value":"Donnybrook Home Fellowship"
+  },
+  {
+    "label":"Eternal Life Ministries",
+    "value":"Eternal Life Ministries"
+  },
+  {
+    "label":"Eagles City Mission",
+    "value":"Eagles City Mission"
+  },
+  {
+    "label":"Emmanuel Reformed Baptist Church",
+    "value":"Emmanuel Reformed Baptist Church"
+  },
+  {
+    "label":"Donnybrook Anglican Church",
+    "value":"Donnybrook Anglican Church"
+  },
+  {
+    "label":"Dianella Church of Christ",
+    "value":"Dianella Church of Christ"
+  },
+  {
+    "label":"Dreamlife Church",
+    "value":"Dreamlife Church"
+  },
+  {
+    "label":"East Victoria Park Baptist Church",
+    "value":"East Victoria Park Baptist Church"
+  },
+  {
+    "label":"Eaton Baptist Church",
+    "value":"Eaton Baptist Church"
+  },
+  {
+    "label":"Essendon Baptist Church",
+    "value":"Essendon Baptist Church"
+  },
+  {
+    "label":"Ellenbrook Salvation Army",
+    "value":"Ellenbrook Salvation Army"
+  },
+  {
+    "label":"Diocese Perth",
+    "value":"Diocese Perth"
+  },
+  {
+    "label":"Ecumentical Catholic",
+    "value":"Ecumentical Catholic"
+  },
+  {
+    "label":"Dongara Anglican Church",
+    "value":"Dongara Anglican Church"
+  },
+  {
+    "label":"Duncraig Christian Fellowship",
+    "value":"Duncraig Christian Fellowship"
+  },
+  {
+    "label":"Eastlake Church",
+    "value":"Eastlake Church"
+  },
+  {
+    "label":"Emmanuel Reformed Baptist Church Plant",
+    "value":"Emmanuel Reformed Baptist Church Plant"
+  },
+  {
+    "label":"Evangel Christian Fellowship",
+    "value":"Evangel Christian Fellowship"
+  },
+  {
+    "label":"Empowered Christian Life Ministries",
+    "value":"Empowered Christian Life Ministries"
+  },
+  {
+    "label":"Ellenbrook Christian Centre",
+    "value":"Ellenbrook Christian Centre"
+  },
+  {
+    "label":"Duncraig Uniting Church",
+    "value":"Duncraig Uniting Church"
+  },
+  {
+    "label":"Endeavour Christian Gathering",
+    "value":"Endeavour Christian Gathering"
+  },
+  {
+    "label":"Elshaddai Mission Church",
+    "value":"Elshaddai Mission Church"
+  },
+  {
+    "label":"Esperance Baptist Church",
+    "value":"Esperance Baptist Church"
+  },
+  {
+    "label":"GKI Perth",
+    "value":"GKI Perth"
+  },
+  {
+    "label":"Fremantle Wesley Mission",
+    "value":"Fremantle Wesley Mission"
+  },
+  {
+    "label":"Exmouth Anglican Church",
+    "value":"Exmouth Anglican Church"
+  },
+  {
+    "label":"Geraldton Lighthouse Christian Fellowship",
+    "value":"Geraldton Lighthouse Christian Fellowship"
+  },
+  {
+    "label":"Freedom City Church",
+    "value":"Freedom City Church"
+  },
+  {
+    "label":"Full Gospel Worship Centre Perth",
+    "value":"Full Gospel Worship Centre Perth"
+  },
+  {
+    "label":"Freeway Church",
+    "value":"Freeway Church"
+  },
+  {
+    "label":"Forrestdale Gospel Community",
+    "value":"Forrestdale Gospel Community"
+  },
+  {
+    "label":"Girrawheen Baptist Church",
+    "value":"Girrawheen Baptist Church"
+  },
+  {
+    "label":"Geraldton Anglican Cathedral",
+    "value":"Geraldton Anglican Cathedral"
+  },
+  {
+    "label":"Free Reformed",
+    "value":"Free Reformed"
+  },
+  {
+    "label":"Five Dock Uniting",
+    "value":"Five Dock Uniting"
+  },
+  {
+    "label":"Gnowangerup Community Church",
+    "value":"Gnowangerup Community Church"
+  },
+  {
+    "label":"Geraldton Lutheran Church",
+    "value":"Geraldton Lutheran Church"
+  },
+  {
+    "label":"Fairfield Methodist Church",
+    "value":"Fairfield Methodist Church"
+  },
+  {
+    "label":"Flinders Park Community Church",
+    "value":"Flinders Park Community Church"
+  },
+  {
+    "label":"Floreat Salvation Army",
+    "value":"Floreat Salvation Army"
+  },
+  {
+    "label":"Fremantle",
+    "value":"Fremantle"
+  },
+  {
+    "label":"Freedom City",
+    "value":"Freedom City"
+  },
+  {
+    "label":"Frankland Baptist Church",
+    "value":"Frankland Baptist Church"
+  },
+  {
+    "label":"Geraldton Baptist Church",
+    "value":"Geraldton Baptist Church"
+  },
+  {
+    "label":"Firstlight",
+    "value":"Firstlight"
+  },
+  {
+    "label":"Gnowangerup Baptist Church",
+    "value":"Gnowangerup Baptist Church"
+  },
+  {
+    "label":"Full Gospel Assembly Lighthouse",
+    "value":"Full Gospel Assembly Lighthouse"
+  },
+  {
+    "label":"Globalheart",
+    "value":"Globalheart"
+  },
+  {
+    "label":"Foothills Church of Christ",
+    "value":"Foothills Church of Christ"
+  },
+  {
+    "label":"Harvest Bible Chapel",
+    "value":"Harvest Bible Chapel"
+  },
+  {
+    "label":"Grace Fellowship",
+    "value":"Grace Fellowship"
+  },
+  {
+    "label":"GraceLife",
+    "value":"GraceLife"
+  },
+  {
+    "label":"Grace Methodist Church",
+    "value":"Grace Methodist Church"
+  },
+  {
+    "label":"Great Life Church",
+    "value":"Great Life Church"
+  },
+  {
+    "label":"Grace Christian Reformed Church",
+    "value":"Grace Christian Reformed Church"
+  },
+  {
+    "label":"Gospel Methodist Church",
+    "value":"Gospel Methodist Church"
+  },
+  {
+    "label":"Henderson Memorial Presbyterian Church",
+    "value":"Henderson Memorial Presbyterian Church"
+  },
+  {
+    "label":"Hedland Christian Church",
+    "value":"Hedland Christian Church"
+  },
+  {
+    "label":"Gosnells Reformed",
+    "value":"Gosnells Reformed"
+  },
+  {
+    "label":"Good Success Church",
+    "value":"Good Success Church"
+  },
+  {
+    "label":"Gospel Baptist Church",
+    "value":"Gospel Baptist Church"
+  },
+  {
+    "label":"Gosnells Family Church",
+    "value":"Gosnells Family Church"
+  },
+  {
+    "label":"Grace Applecross",
+    "value":"Grace Applecross"
+  },
+  {
+    "label":"Holy Trinity",
+    "value":"Holy Trinity"
+  },
+  {
+    "label":"Holy Cross Geraldton",
+    "value":"Holy Cross Geraldton"
+  },
+  {
+    "label":"Hillsong Perth",
+    "value":"Hillsong Perth"
+  },
+  {
+    "label":"Holy Rosary",
+    "value":"Holy Rosary"
+  },
+  {
+    "label":"Holy Cross Hamersley",
+    "value":"Holy Cross Hamersley"
+  },
+  {
+    "label":"Highway Church",
+    "value":"Highway Church"
+  },
+  {
+    "label":"Holy Trinity East Victoria Park\/Bentley",
+    "value":"Holy Trinity East Victoria Park\/Bentley"
+  },
+  {
+    "label":"Greenwood Uniting Church",
+    "value":"Greenwood Uniting Church"
+  },
+  {
+    "label":"Grace Bible Fellowship",
+    "value":"Grace Bible Fellowship"
+  },
+  {
+    "label":"Heart City Church",
+    "value":"Heart City Church"
+  },
+  {
+    "label":"International Bible Fellowship",
+    "value":"International Bible Fellowship"
+  },
+  {
+    "label":"Jurien Bay Non Demominational Church",
+    "value":"Jurien Bay Non Demominational Church"
+  },
+  {
+    "label":"Hope Perth Christian Church",
+    "value":"Hope Perth Christian Church"
+  },
+  {
+    "label":"Kalbarri Anglican Church",
+    "value":"Kalbarri Anglican Church"
+  },
+  {
+    "label":"House Church",
+    "value":"House Church"
+  },
+  {
+    "label":"Hope City Church",
+    "value":"Hope City Church"
+  },
+  {
+    "label":"Karrinyup",
+    "value":"Karrinyup"
+  },
+  {
+    "label":"Kardinya Korean Yeon Hap Uniting Church",
+    "value":"Kardinya Korean Yeon Hap Uniting Church"
+  },
+  {
+    "label":"Joondalup Baptist Church",
+    "value":"Joondalup Baptist Church"
+  },
+  {
+    "label":"Kalgoorlie Baptist Church",
+    "value":"Kalgoorlie Baptist Church"
+  },
+  {
+    "label":"Immanuel Methodist Church",
+    "value":"Immanuel Methodist Church"
+  },
+  {
+    "label":"John Wesley Centrepoint",
+    "value":"John Wesley Centrepoint"
+  },
+  {
+    "label":"Huntingdale Christian Church",
+    "value":"Huntingdale Christian Church"
+  },
+  {
+    "label":"Katanning Foursquare Church",
+    "value":"Katanning Foursquare Church"
+  },
+  {
+    "label":"Katanning Baptist Church",
+    "value":"Katanning Baptist Church"
+  },
+  {
+    "label":"Inglewood Church of Christ",
+    "value":"Inglewood Church of Christ"
+  },
+  {
+    "label":"Kingdom Light",
+    "value":"Kingdom Light"
+  },
+  {
+    "label":"Kelmscott",
+    "value":"Kelmscott"
+  },
+  {
+    "label":"Kendenup Christian Fellowship",
+    "value":"Kendenup Christian Fellowship"
+  },
+  {
+    "label":"Kingsley Baptist Church",
+    "value":"Kingsley Baptist Church"
+  },
+  {
+    "label":"Kalgoorlie Reformed Church",
+    "value":"Kalgoorlie Reformed Church"
+  },
+  {
+    "label":"Indonesian Reformed Evangelical Church",
+    "value":"Indonesian Reformed Evangelical Church"
+  },
+  {
+    "label":"Karrinyup Anglican Church",
+    "value":"Karrinyup Anglican Church"
+  },
+  {
+    "label":"Livingston Seventh Day Adventist Church",
+    "value":"Livingston Seventh Day Adventist Church"
+  },
+  {
+    "label":"Kingsley Christian Church",
+    "value":"Kingsley Christian Church"
+  },
+  {
+    "label":"Living Faith Community Church",
+    "value":"Living Faith Community Church"
+  },
+  {
+    "label":"Lux Mundi",
+    "value":"Lux Mundi"
+  },
+  {
+    "label":"Koondoola SDA Company",
+    "value":"Koondoola SDA Company"
+  },
+  {
+    "label":"Malaysia Discipleship Centre",
+    "value":"Malaysia Discipleship Centre"
+  },
+  {
+    "label":"Kingsley Presbyterian Church",
+    "value":"Kingsley Presbyterian Church"
+  },
+  {
+    "label":"Kingsley Community Church",
+    "value":"Kingsley Community Church"
+  },
+  {
+    "label":"Koorda Christian Fellowship",
+    "value":"Koorda Christian Fellowship"
+  },
+  {
+    "label":"Local Community Church",
+    "value":"Local Community Church"
+  },
+  {
+    "label":"Lake Joondalup Baptist Church",
+    "value":"Lake Joondalup Baptist Church"
+  },
+  {
+    "label":"Maida Vale Baptist Church",
+    "value":"Maida Vale Baptist Church"
+  },
+  {
+    "label":"Leeming Uniting Church",
+    "value":"Leeming Uniting Church"
+  },
+  {
+    "label":"Leederville Presbyterian Church",
+    "value":"Leederville Presbyterian Church"
+  },
+  {
+    "label":"Liberty Christian Centre",
+    "value":"Liberty Christian Centre"
+  },
+  {
+    "label":"Living Hope Presbyterian Church",
+    "value":"Living Hope Presbyterian Church"
+  },
+  {
+    "label":"Lockridge",
+    "value":"Lockridge"
+  },
+  {
+    "label":"Lower Clarence Presbyterian",
+    "value":"Lower Clarence Presbyterian"
+  },
+  {
+    "label":"Lifestreams Christian Church",
+    "value":"Lifestreams Christian Church"
+  },
+  {
+    "label":"Lynwood Christian Church",
+    "value":"Lynwood Christian Church"
+  },
+  {
+    "label":"Maga Chapel International",
+    "value":"Maga Chapel International"
+  },
+  {
+    "label":"Life City Church",
+    "value":"Life City Church"
+  },
+  {
+    "label":"Lighthouse Uniting Church",
+    "value":"Lighthouse Uniting Church"
+  },
+  {
+    "label":"Mount Lawley Church",
+    "value":"Mount Lawley Church"
+  },
+  {
+    "label":"Mt Barker Baptist Church",
+    "value":"Mt Barker Baptist Church"
+  },
+  {
+    "label":"Mitchelton Presbyterian Church",
+    "value":"Mitchelton Presbyterian Church"
+  },
+  {
+    "label":"Mighty Living Waters Life Fellowship",
+    "value":"Mighty Living Waters Life Fellowship"
+  },
+  {
+    "label":"Mt Hawthorn Baptist Church",
+    "value":"Mt Hawthorn Baptist Church"
+  },
+  {
+    "label":"Melville Uniting Church",
+    "value":"Melville Uniting Church"
+  },
+  {
+    "label":"Mt Magnet Anglican Church",
+    "value":"Mt Magnet Anglican Church"
+  },
+  {
+    "label":"Merredin Uniting Church",
+    "value":"Merredin Uniting Church"
+  },
+  {
+    "label":"Mandurah Lutheran Church",
+    "value":"Mandurah Lutheran Church"
+  },
+  {
+    "label":"Mt Pleasant Uniting Church",
+    "value":"Mt Pleasant Uniting Church"
+  },
+  {
+    "label":"Mandurah Westminster Presbyterian Church",
+    "value":"Mandurah Westminster Presbyterian Church"
+  },
+  {
+    "label":"Mar Thoma Parish Perth",
+    "value":"Mar Thoma Parish Perth"
+  },
+  {
+    "label":"Moora Baptist Church",
+    "value":"Moora Baptist Church"
+  },
+  {
+    "label":"Morley Baptist Church",
+    "value":"Morley Baptist Church"
+  },
+  {
+    "label":"Merredin Seventh Day Adventist Church",
+    "value":"Merredin Seventh Day Adventist Church"
+  },
+  {
+    "label":"Narrogin Christian Centre",
+    "value":"Narrogin Christian Centre"
+  },
+  {
+    "label":"Narrogin Baptist Church",
+    "value":"Narrogin Baptist Church"
+  },
+  {
+    "label":"Narembeen",
+    "value":"Narembeen"
+  },
+  {
+    "label":"Narrogin Anglican Church",
+    "value":"Narrogin Anglican Church"
+  },
+  {
+    "label":"Nations",
+    "value":"Nations"
+  },
+  {
+    "label":"Maylands Church",
+    "value":"Maylands Church"
+  },
+  {
+    "label":"Maylands Baptist Church",
+    "value":"Maylands Baptist Church"
+  },
+  {
+    "label":"Mormon",
+    "value":"Mormon"
+  },
+  {
+    "label":"New Spring",
+    "value":"New Spring"
+  },
+  {
+    "label":"North Perth Adventist",
+    "value":"North Perth Adventist"
+  },
+  {
+    "label":"Newman Anglican Church",
+    "value":"Newman Anglican Church"
+  },
+  {
+    "label":"Oceans Church, Albany",
+    "value":"Oceans Church, Albany"
+  },
+  {
+    "label":"NorthWay Uniting Church",
+    "value":"NorthWay Uniting Church"
+  },
+  {
+    "label":"North Beach Anglican Church",
+    "value":"North Beach Anglican Church"
+  },
+  {
+    "label":"Northway Chritian Centre",
+    "value":"Northway Chritian Centre"
+  },
+  {
+    "label":"Ocean Forest Lutheran Fellowship",
+    "value":"Ocean Forest Lutheran Fellowship"
+  },
+  {
+    "label":"North Albany Community Church",
+    "value":"North Albany Community Church"
+  },
+  {
+    "label":"North Balga Christian Centre",
+    "value":"North Balga Christian Centre"
+  },
+  {
+    "label":"North Coast Unichurch",
+    "value":"North Coast Unichurch"
+  },
+  {
+    "label":"Northam Seventh Day Adventist",
+    "value":"Northam Seventh Day Adventist"
+  },
+  {
+    "label":"Northreach Community Church",
+    "value":"Northreach Community Church"
+  },
+  {
+    "label":"Northside",
+    "value":"Northside"
+  },
+  {
+    "label":"Ohita",
+    "value":"Ohita"
+  },
+  {
+    "label":"Network Vineyard Church",
+    "value":"Network Vineyard Church"
+  },
+  {
+    "label":"Paradox",
+    "value":"Paradox"
+  },
+  {
+    "label":"Omega Pentecostal Church",
+    "value":"Omega Pentecostal Church"
+  },
+  {
+    "label":"One Heart City Church",
+    "value":"One Heart City Church"
+  },
+  {
+    "label":"Our Lady of Souro Kasur",
+    "value":"Our Lady of Souro Kasur"
+  },
+  {
+    "label":"Parkerville Baptist Church",
+    "value":"Parkerville Baptist Church"
+  },
+  {
+    "label":"Perth Afrikaans Christian Church",
+    "value":"Perth Afrikaans Christian Church"
+  },
+  {
+    "label":"Pinjarra Alliance Church",
+    "value":"Pinjarra Alliance Church"
+  },
+  {
+    "label":"Perth Christian Reformed Church",
+    "value":"Perth Christian Reformed Church"
+  },
+  {
+    "label":"Perth Yulbang Presbyterian Church",
+    "value":"Perth Yulbang Presbyterian Church"
+  },
+  {
+    "label":"Powerhouse Church",
+    "value":"Powerhouse Church"
+  },
+  {
+    "label":"Perth Cambodian Evangelical Church",
+    "value":"Perth Cambodian Evangelical Church"
+  },
+  {
+    "label":"Peppermint Grove Presbyterian Church",
+    "value":"Peppermint Grove Presbyterian Church"
+  },
+  {
+    "label":"Perth Bible Presbyterian",
+    "value":"Perth Bible Presbyterian"
+  },
+  {
+    "label":"Perth Chinese Christian Church",
+    "value":"Perth Chinese Christian Church"
+  },
+  {
+    "label":"Perth Chinese Baptist Church",
+    "value":"Perth Chinese Baptist Church"
+  },
+  {
+    "label":"Perth Revival Church",
+    "value":"Perth Revival Church"
+  },
+  {
+    "label":"Perth Lord Shalom",
+    "value":"Perth Lord Shalom"
+  },
+  {
+    "label":"Peel Presbyterian Church",
+    "value":"Peel Presbyterian Church"
+  },
+  {
+    "label":"Puglisi",
+    "value":"Puglisi"
+  },
+  {
+    "label":"Perth City Church",
+    "value":"Perth City Church"
+  },
+  {
+    "label":"Perth Christian Community Church",
+    "value":"Perth Christian Community Church"
+  },
+  {
+    "label":"Perth Baptist Church",
+    "value":"Perth Baptist Church"
+  },
+  {
+    "label":"Port Hedland",
+    "value":"Port Hedland"
+  },
+  {
+    "label":"Point Church Anglican",
+    "value":"Point Church Anglican"
+  },
+  {
+    "label":"Real Life Church",
+    "value":"Real Life Church"
+  },
+  {
+    "label":"RCCG Mirabooka",
+    "value":"RCCG Mirabooka"
+  },
+  {
+    "label":"Redcliffe Presbyterian",
+    "value":"Redcliffe Presbyterian"
+  },
+  {
+    "label":"Quinns Baptist Church",
+    "value":"Quinns Baptist Church"
+  },
+  {
+    "label":"Rockingham Mandurah Lutheran Church",
+    "value":"Rockingham Mandurah Lutheran Church"
+  },
+  {
+    "label":"Rockingham Uniting Church",
+    "value":"Rockingham Uniting Church"
+  },
+  {
+    "label":"Scots Presbyterian Church",
+    "value":"Scots Presbyterian Church"
+  },
+  {
+    "label":"Roleystone Community Church",
+    "value":"Roleystone Community Church"
+  },
+  {
+    "label":"Romanian Baptist Church",
+    "value":"Romanian Baptist Church"
+  },
+  {
+    "label":"Rockingham Baptist Church",
+    "value":"Rockingham Baptist Church"
+  },
+  {
+    "label":"Salvation Army",
+    "value":"Salvation Army"
+  },
+  {
+    "label":"Rockingham Anglican Church",
+    "value":"Rockingham Anglican Church"
+  },
+  {
+    "label":"Salvation Army Divisional Headquarters",
+    "value":"Salvation Army Divisional Headquarters"
+  },
+  {
+    "label":"Salvation Army Baldivis",
+    "value":"Salvation Army Baldivis"
+  },
+  {
+    "label":"Sacred Heart Parish",
+    "value":"Sacred Heart Parish"
+  },
+  {
+    "label":"Saving Grace",
+    "value":"Saving Grace"
+  },
+  {
+    "label":"Sawyers Valley Christian Fellowship",
+    "value":"Sawyers Valley Christian Fellowship"
+  },
+  {
+    "label":"Redemption Church",
+    "value":"Redemption Church"
+  },
+  {
+    "label":"Redeemer Gospel Community",
+    "value":"Redeemer Gospel Community"
+  },
+  {
+    "label":"Rivers Christian Life Centre Inc.",
+    "value":"Rivers Christian Life Centre Inc."
+  },
+  {
+    "label":"Secret Harbour Anglican Church",
+    "value":"Secret Harbour Anglican Church"
+  },
+  {
+    "label":"Shalom Community Church",
+    "value":"Shalom Community Church"
+  },
+  {
+    "label":"Secret Harbour",
+    "value":"Secret Harbour"
+  },
+  {
+    "label":"Sonlife Church",
+    "value":"Sonlife Church"
+  },
+  {
+    "label":"Siloam Gospel Ministry",
+    "value":"Siloam Gospel Ministry"
+  },
+  {
+    "label":"Romanian Pentecostal Church",
+    "value":"Romanian Pentecostal Church"
+  },
+  {
+    "label":"Resurrection Anglican Church, Lockridge-Eden Hill",
+    "value":"Resurrection Anglican Church, Lockridge-Eden Hill"
+  },
+  {
+    "label":"Salvation Army Rivervale Corps",
+    "value":"Salvation Army Rivervale Corps"
+  },
+  {
+    "label":"South Perth Church",
+    "value":"South Perth Church"
+  },
+  {
+    "label":"St Augustine",
+    "value":"St Augustine"
+  },
+  {
+    "label":"Sovereign Grace Sydney",
+    "value":"Sovereign Grace Sydney"
+  },
+  {
+    "label":"Southern River",
+    "value":"Southern River"
+  },
+  {
+    "label":"Star Street Uniting Church",
+    "value":"Star Street Uniting Church"
+  },
+  {
+    "label":"Spires Life Church",
+    "value":"Spires Life Church"
+  },
+  {
+    "label":"South Lake Beth Shalom Tongan Church",
+    "value":"South Lake Beth Shalom Tongan Church"
+  },
+  {
+    "label":"Sorrento Christian Church",
+    "value":"Sorrento Christian Church"
+  },
+  {
+    "label":"South City Church",
+    "value":"South City Church"
+  },
+  {
+    "label":"St James' Anglican Church, Yanchep",
+    "value":"St James' Anglican Church, Yanchep"
+  },
+  {
+    "label":"Southside Christian Church",
+    "value":"Southside Christian Church"
+  },
+  {
+    "label":"St Benedict",
+    "value":"St Benedict"
+  },
+  {
+    "label":"St Mary's Catholic Church",
+    "value":"St Mary's Catholic Church"
+  },
+  {
+    "label":"St Mary Magdalene",
+    "value":"St Mary Magdalene"
+  },
+  {
+    "label":"St Mark's",
+    "value":"St Mark's"
+  },
+  {
+    "label":"St Luke's Lutheran Church",
+    "value":"St Luke's Lutheran Church"
+  },
+  {
+    "label":"St John's Lutheran Church",
+    "value":"St John's Lutheran Church"
+  },
+  {
+    "label":"St Mark's Anglican Church, Hillarys",
+    "value":"St Mark's Anglican Church, Hillarys"
+  },
+  {
+    "label":"St Mary's Kulin",
+    "value":"St Mary's Kulin"
+  },
+  {
+    "label":"St Jerome",
+    "value":"St Jerome"
+  },
+  {
+    "label":"South West Baptist Church",
+    "value":"South West Baptist Church"
+  },
+  {
+    "label":"St Columbas Presbyterian Church",
+    "value":"St Columbas Presbyterian Church"
+  },
+  {
+    "label":"St Barnabas Anglican Church, Kalamunda",
+    "value":"St Barnabas Anglican Church, Kalamunda"
+  },
+  {
+    "label":"Unichurch, St Matthew's Anglican, Shenton Park",
+    "value":"Unichurch, St Matthew's Anglican, Shenton Park"
+  },
+  {
+    "label":"The Grove",
+    "value":"The Grove"
+  },
+  {
+    "label":"Summerlakes Christian Church",
+    "value":"Summerlakes Christian Church"
+  },
+  {
+    "label":"Swan Anglican Church",
+    "value":"Swan Anglican Church"
+  },
+  {
+    "label":"St Stephens",
+    "value":"St Stephens"
+  },
+  {
+    "label":"The Red Door Community Church",
+    "value":"The Red Door Community Church"
+  },
+  {
+    "label":"Swan Valley Anglican Community Church",
+    "value":"Swan Valley Anglican Community Church"
+  },
+  {
+    "label":"Urban Church",
+    "value":"Urban Church"
+  },
+  {
+    "label":"The Baldivis Church",
+    "value":"The Baldivis Church"
+  },
+  {
+    "label":"Universal Presbyterian Church",
+    "value":"Universal Presbyterian Church"
+  },
+  {
+    "label":"Swanview Salvation Army",
+    "value":"Swanview Salvation Army"
+  },
+  {
+    "label":"St Nicholas Anglican Church, Australind",
+    "value":"St Nicholas Anglican Church, Australind"
+  },
+  {
+    "label":"St Nicholas",
+    "value":"St Nicholas"
+  },
+  {
+    "label":"Sunset Coast",
+    "value":"Sunset Coast"
+  },
+  {
+    "label":"Sun City Christian Centre",
+    "value":"Sun City Christian Centre"
+  },
+  {
+    "label":"The Big Table",
+    "value":"The Big Table"
+  },
+  {
+    "label":"Swan Christian Fellowship",
+    "value":"Swan Christian Fellowship"
+  },
+  {
+    "label":"The Rocks Ministry Inc",
+    "value":"The Rocks Ministry Inc"
+  },
+  {
+    "label":"Unknown",
+    "value":"Unknown"
+  },
+  {
+    "label":"Trinity North",
+    "value":"Trinity North"
+  },
+  {
+    "label":"West Nedlands Anglican Church",
+    "value":"West Nedlands Anglican Church"
+  },
+  {
+    "label":"Victoria Park Christian Centre",
+    "value":"Victoria Park Christian Centre"
+  },
+  {
+    "label":"Wheatbelt Christian Fellowship",
+    "value":"Wheatbelt Christian Fellowship"
+  },
+  {
+    "label":"Whitfords Presbyterian Church",
+    "value":"Whitfords Presbyterian Church"
+  },
+  {
+    "label":"Wembley Downs",
+    "value":"Wembley Downs"
+  },
+  {
+    "label":"White House Community Church",
+    "value":"White House Community Church"
+  },
+  {
+    "label":"Whitfords Anglican Community Church",
+    "value":"Whitfords Anglican Community Church"
+  },
+  {
+    "label":"Valley Church of Christ",
+    "value":"Valley Church of Christ"
+  },
+  {
+    "label":"Victory Life Broome",
+    "value":"Victory Life Broome"
+  },
+  {
+    "label":"Victory Life Centre",
+    "value":"Victory Life Centre"
+  },
+  {
+    "label":"Vietnamese Evangelical Church",
+    "value":"Vietnamese Evangelical Church"
+  },
+  {
+    "label":"Wagin Baptist Church",
+    "value":"Wagin Baptist Church"
+  },
+  {
+    "label":"WA Korean Presbyterian Church",
+    "value":"WA Korean Presbyterian Church"
+  },
+  {
+    "label":"Warren Valley Community Church",
+    "value":"Warren Valley Community Church"
+  },
+  {
+    "label":"West Perth",
+    "value":"West Perth"
+  },
+  {
+    "label":"Westminster Presbyterian Church Kelmscott",
+    "value":"Westminster Presbyterian Church Kelmscott"
+  },
+  {
+    "label":"Willetton Bible Baptist Church",
+    "value":"Willetton Bible Baptist Church"
+  },
+  {
+    "label":"Willeton Christian Life Centre",
+    "value":"Willeton Christian Life Centre"
+  },
+  {
+    "label":"Wickham Community Church",
+    "value":"Wickham Community Church"
+  },
+  {
+    "label":"Willetton Anglican Church",
+    "value":"Willetton Anglican Church"
+  },
+  {
+    "label":"Williams Anglican Church",
+    "value":"Williams Anglican Church"
+  },
+  {
+    "label":"Church On The Rise St Marks",
+    "value":"Church On The Rise St Marks"
+  },
+  {
+    "label":"Perth Chrisitian Life Centre (PCLC)",
+    "value":"Perth Chrisitian Life Centre (PCLC)"
+  },
+  {
+    "label":"Free Reformed Church of Mount Nasura",
+    "value":"Free Reformed Church of Mount Nasura"
+  },
+  {
+    "label":"St Anne's",
+    "value":"St Anne's"
+  },
+  {
+    "label":"Wyalkatchem Anglican Church",
+    "value":"Wyalkatchem Anglican Church"
+  },
+  {
+    "label":"Zion Praise Harvest",
+    "value":"Zion Praise Harvest"
+  },
+  {
+    "label":"Jesus Reigns Ministry",
+    "value":"Jesus Reigns Ministry"
+  },
+  {
+    "label":"Living Water Anglican Church, Albany",
+    "value":"Living Water Anglican Church, Albany"
+  },
+  {
+    "label":"Zion Fellowship",
+    "value":"Zion Fellowship"
+  },
+  {
+    "label":"Wilson Gospel Chapel",
+    "value":"Wilson Gospel Chapel"
+  },
+  {
+    "label":"Yanchep Community Church",
+    "value":"Yanchep Community Church"
+  },
+  {
+    "label":"Yangebup Baptist Church",
+    "value":"Yangebup Baptist Church"
+  },
+  {
+    "label":"St John The Baptist Anglican Church",
+    "value":"St John The Baptist Anglican Church"
+  },
+  {
+    "label":"Whitfords Church of Christ",
+    "value":"Whitfords Church of Christ"
+  },
+  {
+    "label":"St Mary's Kulin",
+    "value":"St Mary's Kulin"
+  },
+  {
+    "label":"Concordia Lutheran Church, Duncraig",
+    "value":"Concordia Lutheran Church, Duncraig"
+  },
+  {
+    "label":"Lakeside",
+    "value":"Lakeside"
+  },
+  {
+    "label":"Busselton Church of Christ",
+    "value":"Busselton Church of Christ"
+  },
+  {
+    "label":"Noranda Church of Christ",
+    "value":"Noranda Church of Christ"
+  },
+  {
+    "label":"Metrochurch Christian Outreach Centre",
+    "value":"Metrochurch Christian Outreach Centre"
+  },
+  {
+    "label":"St Anselm's",
+    "value":"St Anselm's"
+  },
+  {
+    "label":"Scarborough Church of Christ",
+    "value":"Scarborough Church of Christ"
+  },
+  {
+    "label":"Free Reformed Church of Albany",
+    "value":"Free Reformed Church of Albany"
+  },
+  {
+    "label":"Hill Side Church",
+    "value":"Hill Side Church"
+  },
+  {
+    "label":"Free Reformed Church of Bunbury",
+    "value":"Free Reformed Church of Bunbury"
+  },
+  {
+    "label":"Nollamara Church of Christ",
+    "value":"Nollamara Church of Christ"
+  },
+  {
+    "label":"Kalamunda Church of Christ",
+    "value":"Kalamunda Church of Christ"
+  },
+  {
+    "label":"St Matthew's Anglican Church, Guildford",
+    "value":"St Matthew's Anglican Church, Guildford"
+  },
+  {
+    "label":"Lord of the Nations Christian Church",
+    "value":"Lord of the Nations Christian Church"
+  },
+  {
+    "label":"Free Reformed Church of Melville",
+    "value":"Free Reformed Church of Melville"
+  },
+  {
+    "label":"5 One 4",
+    "value":"5 One 4"
+  },
+  {
+    "label":"Free Reformed Church of Rockingham",
+    "value":"Free Reformed Church of Rockingham"
+  },
+  {
+    "label":"North Perth Seventh Day Adventist Church",
+    "value":"North Perth Seventh Day Adventist Church"
+  },
+  {
+    "label":"St Luke's Anglican Church, Mosman Park",
+    "value":"St Luke's Anglican Church, Mosman Park"
+  },
+  {
+    "label":"Warwick Church of Christ",
+    "value":"Warwick Church of Christ"
+  },
+  {
+    "label":"Down To Earth Church",
+    "value":"Down To Earth Church"
+  },
+  {
+    "label":"Be The Church",
+    "value":"Be The Church"
+  },
+  {
+    "label":"Mount Magnet Presbyterian Church",
+    "value":"Mount Magnet Presbyterian Church"
+  },
+  {
+    "label":"Cornerstone Church of Christ",
+    "value":"Cornerstone Church of Christ"
+  },
+  {
+    "label":"Bay of Isles Christian Fellowship",
+    "value":"Bay of Isles Christian Fellowship"
+  },
+  {
+    "label":"Wembley Downs Church of Christ",
+    "value":"Wembley Downs Church of Christ"
+  },
+  {
+    "label":"WA Conference of the SDA Church",
+    "value":"WA Conference of the SDA Church"
+  },
+  {
+    "label":"Southside City Church",
+    "value":"Southside City Church"
+  },
+  {
+    "label":"Maylands-Mount Lawley Uniting Church",
+    "value":"Maylands-Mount Lawley Uniting Church"
+  },
+  {
+    "label":"Non Denominational",
+    "value":"Non Denominational"
+  },
+  {
+    "label":"Cross Words Church",
+    "value":"Cross Words Church"
+  },
+  {
+    "label":"Dowerin Church of Christ",
+    "value":"Dowerin Church of Christ"
+  },
+  {
+    "label":"Thornlie Church of Christ",
+    "value":"Thornlie Church of Christ"
+  },
+  {
+    "label":"City on a Hill Church",
+    "value":"City on a Hill Church"
+  },
+  {
+    "label":"Forrestdale Community Church",
+    "value":"Forrestdale Community Church"
+  },
+  {
+    "label":"St Mary's",
+    "value":"St Mary's"
+  },
+  {
+    "label":"St George's Anglican Church, Perth",
+    "value":"St George's Anglican Church, Perth"
+  },
+  {
+    "label":"Collie Church of Christ",
+    "value":"Collie Church of Christ"
+  },
+  {
+    "label":"Cranbrook-Frankland Baptist Church",
+    "value":"Cranbrook-Frankland Baptist Church"
+  },
+  {
+    "label":"Dianella Church of the Nazarene",
+    "value":"Dianella Church of the Nazarene"
+  },
+  {
+    "label":"St Basil's",
+    "value":"St Basil's"
+  },
+  {
+    "label":"St Joseph's",
+    "value":"St Joseph's"
+  },
+  {
+    "label":"Queen of Apostles",
+    "value":"Queen of Apostles"
+  },
+  {
+    "label":"Free Reformed Church of Byford",
+    "value":"Free Reformed Church of Byford"
+  },
+  {
+    "label":"FOLOMI: Fount of Life Outreach Ministries",
+    "value":"FOLOMI: Fount of Life Outreach Ministries"
+  },
+  {
+    "label":"Christ Church",
+    "value":"Christ Church"
+  },
+  {
+    "label":"Bruce Rock Church of Christ",
+    "value":"Bruce Rock Church of Christ"
+  },
+  {
+    "label":"The Chapel of the Holy Wisdom of God",
+    "value":"The Chapel of the Holy Wisdom of God"
+  },
+  {
+    "label":"Brookton Calvary West Minster Presbyterian",
+    "value":"Brookton Calvary West Minster Presbyterian"
+  },
+  {
+    "label":"Augusta-Margaret River Anglican Church",
+    "value":"Augusta-Margaret River Anglican Church"
+  },
+  {
+    "label":"St Saviour's Anglican Church, Boyup Brook",
+    "value":"St Saviour's Anglican Church, Boyup Brook"
+  },
+  {
+    "label":"Church of God in Perth",
+    "value":"Church of God in Perth"
+  },
+  {
+    "label":"Our Lady of Grace",
+    "value":"Our Lady of Grace"
+  },
+  {
+    "label":"Rivervale Church of Christ",
+    "value":"Rivervale Church of Christ"
+  },
+  {
+    "label":"St Andrew's Anglican Church, Thornlie",
+    "value":"St Andrew's Anglican Church, Thornlie"
+  },
+  {
+    "label":"Our Lady of Good Council",
+    "value":"Our Lady of Good Council"
+  },
+  {
+    "label":"The Church of the Resurrection",
+    "value":"The Church of the Resurrection"
+  },
+  {
+    "label":"Kelmscott Church of Christ",
+    "value":"Kelmscott Church of Christ"
+  },
+  {
+    "label":"Bunbury Reformed Evangelic Church of Australia",
+    "value":"Bunbury Reformed Evangelic Church of Australia"
+  },
+  {
+    "label":"St Matthew's Anglican Church, Port Hedland",
+    "value":"St Matthew's Anglican Church, Port Hedland"
+  },
+  {
+    "label":"Midwest Church of Christ",
+    "value":"Midwest Church of Christ"
+  },
+  {
+    "label":"C3 Crawley",
+    "value":"C3 Crawley"
+  },
+  {
+    "label":"All Saints Leeming-Bullcreek",
+    "value":"All Saints Leeming-Bullcreek"
+  },
+  {
+    "label":"St Andrew By The Sea",
+    "value":"St Andrew By The Sea"
+  },
+  {
+    "label":"C3 Hepburn Heights",
+    "value":"C3 Hepburn Heights"
+  },
+  {
+    "label":"Merredin Church of Christ",
+    "value":"Merredin Church of Christ"
+  },
+  {
+    "label":"Northam Salvation Army",
+    "value":"Northam Salvation Army"
+  },
+  {
+    "label":"St David's Anglican Church, Applecross",
+    "value":"St David's Anglican Church, Applecross"
+  },
+  {
+    "label":"Mt Pleasant Church of Christ",
+    "value":"Mt Pleasant Church of Christ"
+  },
+  {
+    "label":"St Thomas The Apostle",
+    "value":"St Thomas The Apostle"
+  },
+  {
+    "label":"Geraldton Church of Christ",
+    "value":"Geraldton Church of Christ"
+  },
+  {
+    "label":"City View Church",
+    "value":"City View Church"
+  },
+  {
+    "label":"C3 Langford",
+    "value":"C3 Langford"
+  },
+  {
+    "label":"North Way Uniting Church",
+    "value":"North Way Uniting Church"
+  },
+  {
+    "label":"Northam Church of Christ",
+    "value":"Northam Church of Christ"
+  },
+  {
+    "label":"Church of The Way",
+    "value":"Church of The Way"
+  },
+  {
+    "label":"Free Reformed Church of West Albany",
+    "value":"Free Reformed Church of West Albany"
+  },
+  {
+    "label":"Foothills Church of Christ",
+    "value":"Foothills Church of Christ"
+  },
+  {
+    "label":"Canning Anglican Church",
+    "value":"Canning Anglican Church"
+  },
+  {
+    "label":"St Matthew's Anglican Church, Armadale",
+    "value":"St Matthew's Anglican Church, Armadale"
+  },
+  {
+    "label":"St Paul's Chapel",
+    "value":"St Paul's Chapel"
+  },
+  {
+    "label":"Hope Is Christ Assembly Liberia",
+    "value":"Hope Is Christ Assembly Liberia"
+  },
+  {
+    "label":"Bull Creek Church of Christ",
+    "value":"Bull Creek Church of Christ"
+  },
+  {
+    "label":"Serpentine Church of Christ",
+    "value":"Serpentine Church of Christ"
+  },
+  {
+    "label":"Dunsborough Church of Christ",
+    "value":"Dunsborough Church of Christ"
+  },
+  {
+    "label":"St Andrew's Cathedral, Sydney",
+    "value":"St Andrew's Cathedral, Sydney"
+  },
+  {
+    "label":"Midvale Eternity Church",
+    "value":"Midvale Eternity Church"
+  },
+  {
+    "label":"Carmel Bible Presbyterian Church",
+    "value":"Carmel Bible Presbyterian Church"
+  },
+  {
+    "label":"South Central Church SCC",
+    "value":"South Central Church SCC"
+  },
+  {
+    "label":"Malaga Church of Christ",
+    "value":"Malaga Church of Christ"
+  },
+  {
+    "label":"C3 Scarborough",
+    "value":"C3 Scarborough"
+  },
+  {
+    "label":"C3 Joondalup",
+    "value":"C3 Joondalup"
+  },
+  {
+    "label":"Church Stadium",
+    "value":"Church Stadium"
+  },
+  {
+    "label":"Christ's Ambassadors",
+    "value":"Christ's Ambassadors"
+  },
+  {
+    "label":"C3 North Perth",
+    "value":"C3 North Perth"
+  },
+  {
+    "label":"Midland Anglican Church",
+    "value":"Midland Anglican Church"
+  },
+  {
+    "label":"Free Reformed Church of Baldivis",
+    "value":"Free Reformed Church of Baldivis"
+  },
+  {
+    "label":"Mundaring Community Church",
+    "value":"Mundaring Community Church"
+  },
+  {
+    "label":"St Alban's Anglican Church, Highgate",
+    "value":"St Alban's Anglican Church, Highgate"
+  },
+  {
+    "label":"Hope Community Church, Baldivis",
+    "value":"Hope Community Church, Baldivis"
+  },
+  {
+    "label":"Wattle Grove Baptist Church",
+    "value":"Wattle Grove Baptist Church"
+  },
+  {
+    "label":"Bassendean Anglican Church",
+    "value":"Bassendean Anglican Church"
+  },
+  {
+    "label":"Canning Vale Preaching Point",
+    "value":"Canning Vale Preaching Point"
+  },
+  {
+    "label":"Bridgeley",
+    "value":"Bridgeley"
+  },
+  {
+    "label":"St Mary in the Valley",
+    "value":"St Mary in the Valley"
+  },
+  {
+    "label":"Kingsley Church of Christ",
+    "value":"Kingsley Church of Christ"
+  },
+  {
+    "label":"Free Reformed Church of Kelmscott",
+    "value":"Free Reformed Church of Kelmscott"
+  },
+  {
+    "label":"Eastern Districts Alliance Church",
+    "value":"Eastern Districts Alliance Church"
+  },
+  {
+    "label":"Test churchFor testing purposes only",
+    "value":"Test churchFor testing purposes only"
+  },
+  {
+    "label":"Test 2 ChurchAnother test church",
+    "value":"Test 2 ChurchAnother test church"
+  },
+  {
+    "label":"Gosnells Baptist Church",
+    "value":"Gosnells Baptist Church"
+  },
+  {
+    "label":"Grace and Peace Myanmar Church",
+    "value":"Grace and Peace Myanmar Church"
+  },
+  {
+    "label":"Neuma Church",
+    "value":"Neuma Church"
+  },
+  {
+    "label":"Ellenbrook Baptist Church",
+    "value":"Ellenbrook Baptist Church"
+  },
+  {
+    "label":"Three Crosses Church",
+    "value":"Three Crosses Church"
+  },
+  {
+    "label":"Joondalup Presbyterian Church",
+    "value":"Joondalup Presbyterian Church"
+  },
+  {
+    "label":"St Georges Anglican Church, Bluff Point",
+    "value":"St Georges Anglican Church, Bluff Point"
+  },
+  {
+    "label":"Gingin Uniting Church",
+    "value":"Gingin Uniting Church"
+  },
+  {
+    "label":"Kojonup Baptist Church",
+    "value":"Kojonup Baptist Church"
+  },
+  {
+    "label":"Encounter Church of Christ, Wangara",
+    "value":"Encounter Church of Christ, Wangara"
+  },
+  {
+    "label":"Thornlie Community Church",
+    "value":"Thornlie Community Church"
+  },
+  {
+    "label":"The Common Church",
+    "value":"The Common Church"
+  },
+  {
+    "label":"New City Presbyterian Church, Butler",
+    "value":"New City Presbyterian Church, Butler"
+  },
+  {
+    "label":"Basel Christian Church Perth",
+    "value":"Basel Christian Church Perth"
+  },
+  {
+    "label":"Crosswords Community Church",
+    "value":"Crosswords Community Church"
+  },
+  {
+    "label":"Haven Baptist Church",
+    "value":"Haven Baptist Church"
+  },
+  {
+    "label":"Deo Gloria Church, Mandurah",
+    "value":"Deo Gloria Church, Mandurah"
+  },
+  {
+    "label":"St Francis of Assisi Catholic Church",
+    "value":"St Francis of Assisi Catholic Church"
+  },
+  {
+    "label":"One Church Perth",
+    "value":"One Church Perth"
+  },
+  {
+    "label":"Broome Baptist Church",
+    "value":"Broome Baptist Church"
+  },
+  {
+    "label":"Renew, Perth",
+    "value":"Renew, Perth"
+  },
+  {
+    "label":"Bible Foundation Church, Mandurah",
+    "value":"Bible Foundation Church, Mandurah"
+  },
+  {
+    "label":"Alkimos Baptist Church",
+    "value":"Alkimos Baptist Church"
+  },
+  {
+    "label":"Bay Life Uniting Church, Busselton",
+    "value":"Bay Life Uniting Church, Busselton"
+  },
+  {
+    "label":"St Thomas More Catholic Church, Bateman",
+    "value":"St Thomas More Catholic Church, Bateman"
+  },
+  {
+    "label":"St John's Anglican, Northam",
+    "value":"St John's Anglican, Northam"
+  },
+  {
+    "label":"Grace Chapel Anglican Church, Kwinana",
+    "value":"Grace Chapel Anglican Church, Kwinana"
+  },
+  {
+    "label":"Keppel Anglican Church, Taranganba QLD",
+    "value":"Keppel Anglican Church, Taranganba QLD"
+  },
+  {
+    "label":"Callide Valley Anglican Church, Callide Valley QLD",
+    "value":"Callide Valley Anglican Church, Callide Valley QLD"
+  },
+  {
+    "label":"Rockhampton Presbyterian Church, Rockhampton QLD",
+    "value":"Rockhampton Presbyterian Church, Rockhampton QLD"
+  },
+  {
+    "label":"St Pauls Anglican Cathedral, Rockhampton QLD",
+    "value":"St Pauls Anglican Cathedral, Rockhampton QLD"
+  },
+  {
+    "label":"Moranbah Anglican Church, QLD",
+    "value":"Moranbah Anglican Church, QLD"
+  },
+  {
+    "label":"The Rocks Church, Baldivis",
+    "value":"The Rocks Church, Baldivis"
+  },
+  {
+    "label":"Rockonia Catholic Church, North Rockhampton, QLD",
+    "value":"Rockonia Catholic Church, North Rockhampton, QLD"
+  },
+  {
+    "label":"Globalheart Church, Joondalup",
+    "value":"Globalheart Church, Joondalup"
+  },
+  {
+    "label":"St Mark's Anglican Church, Boyne Island QLD",
+    "value":"St Mark's Anglican Church, Boyne Island QLD"
+  },
+  {
+    "label":"Collective Hope, Mt Lawley",
+    "value":"Collective Hope, Mt Lawley"
+  },
+  {
+    "label":"Perth Free Presbyterian Church",
+    "value":"Perth Free Presbyterian Church"
+  },
+  {
+    "label":"Gladstone Anglican Church QLD",
+    "value":"Gladstone Anglican Church QLD"
+  },
+  {
+    "label":"Mustard Seed Community Church, Cannington",
+    "value":"Mustard Seed Community Church, Cannington"
+  },
+  {
+    "label":"Every Nation Church Perth",
+    "value":"Every Nation Church Perth"
+  },
+  {
+    "label":"Oikos Church",
+    "value":"Oikos Church"
+  },
+  {
+    "label":"Bethany Worship Centre, Perth",
+    "value":"Bethany Worship Centre, Perth"
+  },
+  {
+    "label":"Courageous Church",
+    "value":"Courageous Church"
+  },
+  {
+    "label":"High Wycombe Westminster Presbyterian Church",
+    "value":"High Wycombe Westminster Presbyterian Church"
+  },
+  {
+    "label":"The Vine Community Church",
+    "value":"The Vine Community Church"
+  },
+  {
+    "label":"St Stephen's Anglican Church, Cape Town",
+    "value":"St Stephen's Anglican Church, Cape Town"
+  },
+  {
+    "label":"St George's Indian Orthodox Church, Perth",
+    "value":"St George's Indian Orthodox Church, Perth"
+  },
+  {
+    "label":"Forrestfield Anglican Church",
+    "value":"Forrestfield Anglican Church"
+  },
+  {
+    "label":"Uniting Church, Claremont",
+    "value":"Uniting Church, Claremont"
+  },
+  {
+    "label":"Baik Yang Presbyterian Church",
+    "value":"Baik Yang Presbyterian Church"
+  },
+  {
+    "label":"C3 Kwinana",
+    "value":"C3 Kwinana"
+  },
+  {
+    "label":"York Street Baptist Fellowship, Albany",
+    "value":"York Street Baptist Fellowship, Albany"
+  },
+  {
+    "label":"Wahroonga Anglican Church, Wahroonga NSW",
+    "value":"Wahroonga Anglican Church, Wahroonga NSW"
+  },
+  {
+    "label":"Destiny Empowered Christian Church, Gosnells",
+    "value":"Destiny Empowered Christian Church, Gosnells"
+  },
+  {
+    "label":"Light and Salt Faith Community Church",
+    "value":"Light and Salt Faith Community Church"
+  },
+  {
+    "label":"St Kieran Catholic Church, Osborne Park",
+    "value":"St Kieran Catholic Church, Osborne Park"
+  },
+  {
+    "label":"St Andrew's Anglican Church, Shelley",
+    "value":"St Andrew's Anglican Church, Shelley"
+  },
+  {
+    "label":"TRIBES Church",
+    "value":"TRIBES Church"
+  },
+  {
+    "label":"Home Church",
+    "value":"Home Church"
+  },
+  {
+    "label":"Free Reformed Church of Cardup Brook",
+    "value":"Free Reformed Church of Cardup Brook"
+  },
+  {
+    "label":"Mandurah Presbyterian Church",
+    "value":"Mandurah Presbyterian Church"
+  },
+  {
+    "label":"Margaret River Uniting Church",
+    "value":"Margaret River Uniting Church"
+  },
+  {
+    "label":"Laneway Church, VIC",
+    "value":"Laneway Church, VIC"
+  },
+  {
+    "label":"Thornlie Baptist Church",
+    "value":"Thornlie Baptist Church"
+  },
+  {
+    "label":"Collie Anglican Church",
+    "value":"Collie Anglican Church"
+  },
+  {
+    "label":"St Columba's Catholic Church, Bayswater",
+    "value":"St Columba's Catholic Church, Bayswater"
+  },
+  {
+    "label":"Fremantle Church",
+    "value":"Fremantle Church"
+  },
+  {
+    "label":"Kingsway Christian Church",
+    "value":"Kingsway Christian Church"
+  },
+  {
+    "label":"St Margaret's Anglican Church, Nedlands",
+    "value":"St Margaret's Anglican Church, Nedlands"
+  },
+  {
+    "label":"The Billabong Uniting Church, Canning Vale",
+    "value":"The Billabong Uniting Church, Canning Vale"
+  },
+  {
+    "label":"Manjimup Baptist Church",
+    "value":"Manjimup Baptist Church"
+  },
+  {
+    "label":"Ross Memorial Uniting Church",
+    "value":"Ross Memorial Uniting Church"
+  },
+  {
+    "label":"Potters House Gospel Fellowship",
+    "value":"Potters House Gospel Fellowship"
+  },
+  {
+    "label":"Infant Jesus Parish, Morley",
+    "value":"Infant Jesus Parish, Morley"
+  },
+  {
+    "label":"Lift Church",
+    "value":"Lift Church"
+  },
+  {
+    "label":"Karratha Anglican Community Church",
+    "value":"Karratha Anglican Community Church"
+  },
+  {
+    "label":"simplyGod, Connolly",
+    "value":"simplyGod, Connolly"
+  },
+  {
+    "label":"Perth Joyful Church, Applecross",
+    "value":"Perth Joyful Church, Applecross"
+  },
+  {
+    "label":"Jarrahdale Christian Fellowship",
+    "value":"Jarrahdale Christian Fellowship"
+  },
+  {
+    "label":"East Perth Catholic Church",
+    "value":"East Perth Catholic Church"
+  },
+  {
+    "label":"St Mary's Catholic Church, Beverley",
+    "value":"St Mary's Catholic Church, Beverley"
+  },
+  {
+    "label":"St Andrews Anglican Church, West Nedlands",
+    "value":"St Andrews Anglican Church, West Nedlands"
+  },
+  {
+    "label":"St Barnabas Anglican Church, Rivervale",
+    "value":"St Barnabas Anglican Church, Rivervale"
+  },
+  {
+    "label":"Perth Church of Christ",
+    "value":"Perth Church of Christ"
+  },
+  {
+    "label":"Encounter City Church",
+    "value":"Encounter City Church"
+  },
+  {
+    "label":"New City Presbyterian Church, Eglinton",
+    "value":"New City Presbyterian Church, Eglinton"
+  },
+  {
+    "label":"Generations City, Perth",
+    "value":"Generations City, Perth"
+  },
+  {
+    "label":"Christ Church Anglican, Gladesville Sydney NSW",
+    "value":"Christ Church Anglican, Gladesville Sydney NSW"
+  },
+  {
+    "label":"Indonesian Catholic Community of Perth",
+    "value":"Indonesian Catholic Community of Perth"
+  },
+  {
+    "label":"Myanmar Baptist Church",
+    "value":"Myanmar Baptist Church"
+  },
+  {
+    "label":"St. Edmund's Anglican Church, Wembley",
+    "value":"St. Edmund's Anglican Church, Wembley"
+  },
+  {
+    "label":"Kelmscott Baptist Church",
+    "value":"Kelmscott Baptist Church"
+  },
+  {
+    "label":"St. Andrews Catholic Church, Clarkson",
+    "value":"St. Andrews Catholic Church, Clarkson"
+  },
+  {
+    "label":"Oldacker Christian Church, TAS",
+    "value":"Oldacker Christian Church, TAS"
+  },
+  {
+    "label":"Ceylon Perth Family Revival Church",
+    "value":"Ceylon Perth Family Revival Church"
+  },
+  {
+    "label":"Burmese Church, Malaga",
+    "value":"Burmese Church, Malaga"
+  },
+  {
+    "label":"The Rock Christian Fellowship, Medina",
+    "value":"The Rock Christian Fellowship, Medina"
+  },
+  {
+    "label":"Providence Midland",
+    "value":"Providence Midland"
+  },
+  {
+    "label":"Christs Church Anglican, Mandurah",
+    "value":"Christs Church Anglican, Mandurah"
+  },
+  {
+    "label":"Without Walls, North Perth",
+    "value":"Without Walls, North Perth"
+  },
+  {
+    "label":"Elevation Church, Mandurah",
+    "value":"Elevation Church, Mandurah"
+  },
+  {
+    "label":"Down South Gospel, Busselton",
+    "value":"Down South Gospel, Busselton"
+  },
+  {
+    "label":"The Local Church, Bentley",
+    "value":"The Local Church, Bentley"
+  },
+  {
+    "label":"Mosaic South Perth Baptist Church",
+    "value":"Mosaic South Perth Baptist Church"
+  },
+  {
+    "label":"Christ the King Anglican Church, Willetton",
+    "value":"Christ the King Anglican Church, Willetton"
+  },
+  {
+    "label":"New Jerusalem Christian Church, Ellenbrook",
+    "value":"New Jerusalem Christian Church, Ellenbrook"
+  },
+  {
+    "label":"Kalgoorlie Church of Christ",
+    "value":"Kalgoorlie Church of Christ"
+  },
+  {
+    "label":"First Church of Christ, Scientist, Perth",
+    "value":"First Church of Christ, Scientist, Perth"
+  },
+  {
+    "label":"One Tree Hill, Adelaide",
+    "value":"One Tree Hill, Adelaide"
+  },
+  {
+    "label":"Pater Noster Catholic Church",
+    "value":"Pater Noster Catholic Church"
+  },
+  {
+    "label":"South Perth Uniting Church",
+    "value":"South Perth Uniting Church"
+  },
+  {
+    "label":"Roleystone Anglican Church",
+    "value":"Roleystone Anglican Church"
+  },
+  {
+    "label":"St Patrick's Basilica Fremantle",
+    "value":"St Patrick's Basilica Fremantle"
+  },
+  {
+    "label":"Perth Messianic Assembly, Dianella",
+    "value":"Perth Messianic Assembly, Dianella"
+  },
+  {
+    "label":"Calgary Baptist Church",
+    "value":"Calgary Baptist Church"
+  },
+  {
+    "label":"Westpoint City Church, Malaga",
+    "value":"Westpoint City Church, Malaga"
+  },
+  {
+    "label":"Immaculate Conception Catholic Church, East Fremantle",
+    "value":"Immaculate Conception Catholic Church, East Fremantle"
+  },
+  {
+    "label":"Bunbury Seventh-Day Adventist Church",
+    "value":"Bunbury Seventh-Day Adventist Church"
+  },
+  {
+    "label":"Pingelly Baptist Church",
+    "value":"Pingelly Baptist Church"
+  },
+  {
+    "label":"St Peters Anglican Church, Willeton",
+    "value":"St Peters Anglican Church, Willeton"
+  },
+  {
+    "label":"Karratha Baptist Church",
+    "value":"Karratha Baptist Church"
+  },
+  {
+    "label":"Crossways Uniting Church, Wanneroo",
+    "value":"Crossways Uniting Church, Wanneroo"
+  },
+  {
+    "label":"Free Reformed Church, Seville Grove",
+    "value":"Free Reformed Church, Seville Grove"
+  },
+  {
+    "label":"Lakelands Community Church",
+    "value":"Lakelands Community Church"
+  },
+  {
+    "label":"Calvary Baptist Church, Armadale",
+    "value":"Calvary Baptist Church, Armadale"
+  },
+  {
+    "label":"Eastgate Church, Mount Helena",
+    "value":"Eastgate Church, Mount Helena"
+  },
+  {
+    "label":"Menora Church, Nollamara",
+    "value":"Menora Church, Nollamara"
+  },
+  {
+    "label":"St Peter's Anglican Church, Victoria Park",
+    "value":"St Peter's Anglican Church, Victoria Park"
+  },
+  {
+    "label":"Hope Community Fellowship, Boyup Brook",
+    "value":"Hope Community Fellowship, Boyup Brook"
+  },
+  {
+    "label":"Waratah Community Church",
+    "value":"Waratah Community Church"
+  },
+  {
+    "label":"Free Reformed Church, Comet Bay",
+    "value":"Free Reformed Church, Comet Bay"
+  },
+  {
+    "label":"The Rocks Church, Cannington",
+    "value":"The Rocks Church, Cannington"
+  },
+  {
+    "label":"Balcatta Gospel Hall",
+    "value":"Balcatta Gospel Hall"
+  },
+  {
+    "label":"Wongan Hills-Dalwallinu Anglican Church",
+    "value":"Wongan Hills-Dalwallinu Anglican Church"
+  },
+  {
+    "label":"St Luke's Anglican Church, Gingin",
+    "value":"St Luke's Anglican Church, Gingin"
+  },
+  {
+    "label":"Ellenbrook Anglican Church",
+    "value":"Ellenbrook Anglican Church"
+  },
+  {
+    "label":"Albany Church of Christ",
+    "value":"Albany Church of Christ"
+  },
+  {
+    "label":"Armadale Congregational Church",
+    "value":"Armadale Congregational Church"
+  },
+  {
+    "label":"Faith Community Church",
+    "value":"Faith Community Church"
+  },
+  {
+    "label":"South Bunbury Church of Christ",
+    "value":"South Bunbury Church of Christ"
+  },
+  {
+    "label":"Yokine Baptist Church",
+    "value":"Yokine Baptist Church"
+  },
+  {
+    "label":"Beaumaris-Ocean Reef Baptist Church",
+    "value":"Beaumaris-Ocean Reef Baptist Church"
+  },
+  {
+    "label":"Kingdom City",
+    "value":"Kingdom City"
+  },
+  {
+    "label":"Free Reformed Church of Southern River",
+    "value":"Free Reformed Church of Southern River"
+  },
+  {
+    "label":"Kingscross",
+    "value":"Kingscross"
+  },
+  {
+    "label":"Subiaco Baptist Church",
+    "value":"Subiaco Baptist Church"
+  },
+  {
+    "label":"St Philip's Anglican Church, Cottesloe",
+    "value":"St Philip's Anglican Church, Cottesloe"
+  },
+  {
+    "label":"Good Shepherd Catholic Church",
+    "value":"Good Shepherd Catholic Church"
+  },
+  {
+    "label":"Kelmscott Congregational Church",
+    "value":"Kelmscott Congregational Church"
+  },
+  {
+    "label":"St Patrick's Anglican Church, Mt Lawley",
+    "value":"St Patrick's Anglican Church, Mt Lawley"
+  },
+  {
+    "label":"Darlington United Church",
+    "value":"Darlington United Church"
+  },
+  {
+    "label":"Dalwallinu Baptist Church",
+    "value":"Dalwallinu Baptist Church"
+  },
+  {
+    "label":"Bunbury Baptist Church",
+    "value":"Bunbury Baptist Church"
+  },
+  {
+    "label":"True North",
+    "value":"True North"
+  },
+  {
+    "label":"Wesley",
+    "value":"Wesley"
+  },
+  {
+    "label":"Free Reformed Church of Mundijong",
+    "value":"Free Reformed Church of Mundijong"
+  },
+  {
+    "label":"Nations Church",
+    "value":"Nations Church"
+  },
+  {
+    "label":"St Marys Anglican Church, West Perth",
+    "value":"St Marys Anglican Church, West Perth"
+  },
+  {
+    "label":"Canning Vale Westminster Presbyterian Church",
+    "value":"Canning Vale Westminster Presbyterian Church"
+  },
+  {
+    "label":"Nedlands Uniting Church",
+    "value":"Nedlands Uniting Church"
+  },
+  {
+    "label":"The Way Christian Church",
+    "value":"The Way Christian Church"
+  },
+  {
+    "label":"Grace Community Perth",
+    "value":"Grace Community Perth"
+  },
+  {
+    "label":"Deo Gloria Rockingham",
+    "value":"Deo Gloria Rockingham"
+  },
+  {
+    "label":"St Luke's anglican Church, Maddington",
+    "value":"St Luke's anglican Church, Maddington"
+  },
+  {
+    "label":"Heritage Christian Church",
+    "value":"Heritage Christian Church"
+  },
+  {
+    "label":"Southern Districts Alliance Church (SDAC)",
+    "value":"Southern Districts Alliance Church (SDAC)"
+  },
+  {
+    "label":"Aboriginal Evangelical Church",
+    "value":"Aboriginal Evangelical Church"
+  },
+  {
+    "label":"Southern Christian Church",
+    "value":"Southern Christian Church"
+  },
+  {
+    "label":"Duncraig Christian Community Church",
+    "value":"Duncraig Christian Community Church"
+  },
+  {
+    "label":"Melville Baptist Church",
+    "value":"Melville Baptist Church"
+  },
+  {
+    "label":"Mater Christi Catholic Church",
+    "value":"Mater Christi Catholic Church"
+  },
+  {
+    "label":"Horizon Reformed Christian Fellowship",
+    "value":"Horizon Reformed Christian Fellowship"
+  },
+  {
+    "label":"Pingelly Family Church",
+    "value":"Pingelly Family Church"
+  },
+  {
+    "label":"St John's Lutheran Church",
+    "value":"St John's Lutheran Church"
+  },
+  {
+    "label":"Basso Church of Christ",
+    "value":"Basso Church of Christ"
+  },
+  {
+    "label":"Connect Christian Church, Wilson",
+    "value":"Connect Christian Church, Wilson"
+  },
+  {
+    "label":"Margaret River Baptist Church",
+    "value":"Margaret River Baptist Church"
+  },
+  {
+    "label":"Southern River Church of Christ",
+    "value":"Southern River Church of Christ"
+  },
+  {
+    "label":"Free Reformed Church of Darling Downs",
+    "value":"Free Reformed Church of Darling Downs"
+  },
+  {
+    "label":"St Phillip's Anglican Church, Cottesloe",
+    "value":"St Phillip's Anglican Church, Cottesloe"
+  },
+  {
+    "label":"Toodyay Baptist Church",
+    "value":"Toodyay Baptist Church"
+  },
+  {
+    "label":"Warnbro Community Church",
+    "value":"Warnbro Community Church"
+  },
+  {
+    "label":"Eastern Districts Alliance Church (EDAC), Armadale",
+    "value":"Eastern Districts Alliance Church (EDAC), Armadale"
+  },
+  {
+    "label":"St Edmund's Anglican Church, Wembley",
+    "value":"St Edmund's Anglican Church, Wembley"
+  },
+  {
+    "label":"Centrepoint Church Bibra lake",
+    "value":"Centrepoint Church Bibra lake"
+  },
+  {
+    "label":"St Peter's Anglican Church, Wanneroo",
+    "value":"St Peter's Anglican Church, Wanneroo"
+  },
+  {
+    "label":"Lesmurdie Baptist Church",
+    "value":"Lesmurdie Baptist Church"
+  },
+  {
+    "label":"New Life Church, Fremantle",
+    "value":"New Life Church, Fremantle"
+  },
+  {
+    "label":"Mukinbudin Church of Christ",
+    "value":"Mukinbudin Church of Christ"
+  },
+  {
+    "label":"East Fremantle Baptist Church",
+    "value":"East Fremantle Baptist Church"
+  },
+  {
+    "label":"Northam Alliance Church",
+    "value":"Northam Alliance Church"
+  },
+  {
+    "label":"Mundaring Church of Christ",
+    "value":"Mundaring Church of Christ"
+  },
+  {
+    "label":"Riverton Baptist Community Church",
+    "value":"Riverton Baptist Community Church"
+  },
+  {
+    "label":"Campus Bible Church",
+    "value":"Campus Bible Church"
+  },
+  {
+    "label":"Lake Gwelup Christian Church",
+    "value":"Lake Gwelup Christian Church"
+  },
+  {
+    "label":"Harvey Church of Christ",
+    "value":"Harvey Church of Christ"
+  },
+  {
+    "label":"Mount Pleasant Baptist Church",
+    "value":"Mount Pleasant Baptist Church"
+  },
+  {
+    "label":"St Andrew's Anglican Church, Riverton",
+    "value":"St Andrew's Anglican Church, Riverton"
+  },
+  {
+    "label":"St Nicholas Anglican Church, Rockingham",
+    "value":"St Nicholas Anglican Church, Rockingham"
+  },
+  {
+    "label":"Our Ladys Assumption Catholic Church, Dianella",
+    "value":"Our Ladys Assumption Catholic Church, Dianella"
+  },
+  {
+    "label":"Lakeside Baptist Church",
+    "value":"Lakeside Baptist Church"
+  },
+  {
+    "label":"Westcity",
+    "value":"Westcity"
+  },
+  {
+    "label":"Inglewood Community Church",
+    "value":"Inglewood Community Church"
+  },
+  {
+    "label":"Redeemer Presbyterian Church",
+    "value":"Redeemer Presbyterian Church"
+  },
+  {
+    "label":"Gosnells Christian Reformed Church",
+    "value":"Gosnells Christian Reformed Church"
+  },
+  {
+    "label":"All Nations Presbyterian Church",
+    "value":"All Nations Presbyterian Church"
+  },
+  {
+    "label":"Maida Vale Westminster Presbyterian Church",
+    "value":"Maida Vale Westminster Presbyterian Church"
+  },
+  {
+    "label":"Dalkeith Baptist Church",
+    "value":"Dalkeith Baptist Church"
+  },
+  {
+    "label":"St Barnabas Anglican Church, Leederville",
+    "value":"St Barnabas Anglican Church, Leederville"
+  },
+  {
+    "label":"Claremont Baptist Church",
+    "value":"Claremont Baptist Church"
+  },
+  {
+    "label":"Busselton Baptist Church",
+    "value":"Busselton Baptist Church"
+  },
+  {
+    "label":"Perth Romanian Pentecostal Church",
+    "value":"Perth Romanian Pentecostal Church"
+  },
+  {
+    "label":"Kelmscott Anglican Church",
+    "value":"Kelmscott Anglican Church"
+  },
+  {
+    "label":"Westminster Presbyterian Church Bull Creek (WPCBC)",
+    "value":"Westminster Presbyterian Church Bull Creek (WPCBC)"
+  },
+  {
+    "label":"Mandurah Baptist Church",
+    "value":"Mandurah Baptist Church"
+  },
+  {
+    "label":"Free Reformed Church of Busselton",
+    "value":"Free Reformed Church of Busselton"
+  },
+  {
+    "label":"Kallaroo Anglican Church",
+    "value":"Kallaroo Anglican Church"
+  },
+  {
+    "label":"North Dandalup Community Church",
+    "value":"North Dandalup Community Church"
+  },
+  {
+    "label":"Golden Bay Baptist Church",
+    "value":"Golden Bay Baptist Church"
+  },
+  {
+    "label":"Perth Alliance Church",
+    "value":"Perth Alliance Church"
+  },
+  {
+    "label":"St Columbas",
+    "value":"St Columbas"
+  },
+  {
+    "label":"Free Reformed Church of Armadale",
+    "value":"Free Reformed Church of Armadale"
+  },
+  {
+    "label":"Gateway Community Church",
+    "value":"Gateway Community Church"
+  },
+  {
+    "label":"Woodvale Baptist Church",
+    "value":"Woodvale Baptist Church"
+  },
+  {
+    "label":"Willetton Christian Church",
+    "value":"Willetton Christian Church"
+  },
+  {
+    "label":"Riverview, Burswood",
+    "value":"Riverview, Burswood"
+  },
+  {
+    "label":"Rockingham Church of Christ",
+    "value":"Rockingham Church of Christ"
+  },
+  {
+    "label":"Coolbellup Community Church",
+    "value":"Coolbellup Community Church"
+  },
+  {
+    "label":"Grace Christian Church, Armadale",
+    "value":"Grace Christian Church, Armadale"
+  },
+  {
+    "label":"Willeton Christian Reformed Church",
+    "value":"Willeton Christian Reformed Church"
+  },
+  {
+    "label":"Australind Baptist Church",
+    "value":"Australind Baptist Church"
+  },
+  {
+    "label":"North Beach Baptist Church",
+    "value":"North Beach Baptist Church"
+  },
+  {
+    "label":"Perth Chinese Christian Church North Branch",
+    "value":"Perth Chinese Christian Church North Branch"
+  },
+  {
+    "label":"Calvary Chapel Secret Harbour",
+    "value":"Calvary Chapel Secret Harbour"
+  },
+  {
+    "label":"Scarborough Baptist Church",
+    "value":"Scarborough Baptist Church"
+  },
+  {
+    "label":"Mosman Park Baptist Church",
+    "value":"Mosman Park Baptist Church"
+  },
+  {
+    "label":"Perth Alliance Church English South",
+    "value":"Perth Alliance Church English South"
+  },
+  {
+    "label":"Grace Communion International, Perth",
+    "value":"Grace Communion International, Perth"
+  },
+  {
+    "label":"York Church of Christ",
+    "value":"York Church of Christ"
+  },
+  {
+    "label":"St Matthew's Anglican Church, Shenton Park",
+    "value":"St Matthew's Anglican Church, Shenton Park"
+  },
+  {
+    "label":"Willetton Uniting",
+    "value":"Willetton Uniting"
+  },
+  {
+    "label":"Kingsway Methodist Church",
+    "value":"Kingsway Methodist Church"
+  },
+  {
+    "label":"Kardinya Uniting Church",
+    "value":"Kardinya Uniting Church"
+  },
+  {
+    "label":"Subiaco Church of Christ",
+    "value":"Subiaco Church of Christ"
+  },
+  {
+    "label":"Dalkeith Anglican Church (St Lawrences)",
+    "value":"Dalkeith Anglican Church (St Lawrences)"
+  },
+  {
+    "label":"Vic Park Presbyterian Church",
+    "value":"Vic Park Presbyterian Church"
+  },
+  {
+    "label":"St Mark's Anglican Church, Bassendean",
+    "value":"St Mark's Anglican Church, Bassendean"
+  },
+  {
+    "label":"Providence City",
+    "value":"Providence City"
+  },
+  {
+    "label":"Grace Church, Mandurah",
+    "value":"Grace Church, Mandurah"
+  },
+  {
+    "label":"Bicton Uniting Church",
+    "value":"Bicton Uniting Church"
+  },
+  {
+    "label":"Providence Reformed Baptist Church",
+    "value":"Providence Reformed Baptist Church"
+  },
+  {
+    "label":"Providence Bayswater",
+    "value":"Providence Bayswater"
+  },
+  {
+    "label":"North Coast Church, Balcatta",
+    "value":"North Coast Church, Balcatta"
+  }
+]
