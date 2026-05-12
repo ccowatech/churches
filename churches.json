@@ -371,16 +371,6 @@
   },
   {
     "names": {
-      "primary_name": "Be The Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
       "primary_name": "Be the Church",
       "alt_names": []
     },
@@ -2171,7 +2161,7 @@
   },
   {
     "names": {
-      "primary_name": "FOLOMI: Fount of Life Outreach Ministries",
+      "primary_name": "Fount of Life Outreach Ministries",
       "alt_names": []
     },
     "suburbs": {
@@ -2192,16 +2182,6 @@
   {
     "names": {
       "primary_name": "Faith Community Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "First Church of Christ, Scientist, Perth",
       "alt_names": []
     },
     "suburbs": {
@@ -2242,16 +2222,6 @@
   {
     "names": {
       "primary_name": "Floreat Salvation Army",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "Foothills Church of Christ",
       "alt_names": []
     },
     "suburbs": {
@@ -3571,28 +3541,8 @@
   },
   {
     "names": {
-      "primary_name": "Kingsley Christian Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
       "primary_name": "Kingsley Church of Christ",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "Kingsley Community Church",
-      "alt_names": []
+      "alt_names": ["Kingsley Christian Church"]
     },
     "suburbs": {
       "primary_sub": null,
@@ -3682,16 +3632,6 @@
   {
     "names": {
       "primary_name": "Lakelands Community Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "Lakeside Baptist Church",
       "alt_names": []
     },
     "suburbs": {
@@ -3882,16 +3822,6 @@
   {
     "names": {
       "primary_name": "Lynwood Christian Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "Maga Chapel International",
       "alt_names": []
     },
     "suburbs": {
@@ -5671,16 +5601,6 @@
   },
   {
     "names": {
-      "primary_name": "Southside Christian Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
       "primary_name": "Southside City Church",
       "alt_names": []
     },
@@ -5762,6 +5682,16 @@
   {
     "names": {
       "primary_name": "St Andrews Anglican Church, West Nedlands",
+      "alt_names": []
+    },
+    "suburbs": {
+      "primary_sub": null,
+      "alt_subs": []
+    }
+  },
+  {
+    "names": {
+      "primary_name": "St Andrews Catholic Church, Clarkson",
       "alt_names": []
     },
     "suburbs": {
@@ -5941,16 +5871,6 @@
   },
   {
     "names": {
-      "primary_name": "St John's Lutheran Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
       "primary_name": "St Kieran Catholic Church, Osborne Park",
       "alt_names": []
     },
@@ -5971,6 +5891,16 @@
   },
   {
     "names": {
+      "primary_name": "St Luke's Anglican Church, Maddington",
+      "alt_names": []
+    },
+    "suburbs": {
+      "primary_sub": null,
+      "alt_subs": []
+    }
+  },
+  {
+    "names": {
       "primary_name": "St Luke's Anglican Church, Mosman Park",
       "alt_names": []
     },
@@ -5982,16 +5912,6 @@
   {
     "names": {
       "primary_name": "St Luke's Lutheran Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "St Luke's anglican Church, Maddington",
       "alt_names": []
     },
     "suburbs": {
@@ -6051,27 +5971,7 @@
   },
   {
     "names": {
-      "primary_name": "St Mary's Catholic Church",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
       "primary_name": "St Mary's Catholic Church, Beverley",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "St Mary's Kulin",
       "alt_names": []
     },
     "suburbs": {
@@ -6132,7 +6032,10 @@
   {
     "names": {
       "primary_name": "St Matthew's Anglican Church, Shenton Park",
-      "alt_names": []
+      "alt_names": [
+        "Unichurch, St Matthew's Anglican, Shenton Park",
+        "St Matt's Unichurch"
+      ]
     },
     "suburbs": {
       "primary_sub": null,
@@ -6221,16 +6124,6 @@
   },
   {
     "names": {
-      "primary_name": "St Phillip's Anglican Church, Cottesloe",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
       "primary_name": "St Saviour's Anglican Church, Boyup Brook",
       "alt_names": []
     },
@@ -6262,26 +6155,6 @@
   {
     "names": {
       "primary_name": "St Thomas The Apostle",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "St. Andrews Catholic Church, Clarkson",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "St. Edmund's Anglican Church, Wembley",
       "alt_names": []
     },
     "suburbs": {
@@ -6602,16 +6475,6 @@
   {
     "names": {
       "primary_name": "True North",
-      "alt_names": []
-    },
-    "suburbs": {
-      "primary_sub": null,
-      "alt_subs": []
-    }
-  },
-  {
-    "names": {
-      "primary_name": "Unichurch, St Matthew's Anglican, Shenton Park",
       "alt_names": []
     },
     "suburbs": {
